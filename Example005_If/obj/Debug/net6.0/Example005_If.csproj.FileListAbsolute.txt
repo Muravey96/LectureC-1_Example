@@ -1,0 +1,15 @@
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\bin\Debug\net6.0\Example005_If.exe
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\bin\Debug\net6.0\Example005_If.deps.json
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\bin\Debug\net6.0\Example005_If.runtimeconfig.json
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\bin\Debug\net6.0\Example005_If.dll
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\bin\Debug\net6.0\Example005_If.pdb
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\Example005_If.csproj.AssemblyReference.cache
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\Example005_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\Example005_If.AssemblyInfoInputs.cache
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\Example005_If.AssemblyInfo.cs
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\Example005_If.csproj.CoreCompileInputs.cache
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\Example005_If.dll
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\refint\Example005_If.dll
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\Example005_If.pdb
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\Example005_If.genruntimeconfig.cache
+C:\GeekBrains DataSc\C#\Лекция1\Examples\Example005_If\obj\Debug\net6.0\ref\Example005_If.dll
